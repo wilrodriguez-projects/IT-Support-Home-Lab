@@ -10,6 +10,13 @@ This lab is part of my IT Support Home Lab while preparing for the CompTIA A+ ce
 
 ## Lab Environment
 
+The virtualization environment is prepared using Oracle VirtualBox to simulate a help desk troubleshooting system.
+
+### VirtualBox Manager
+
+![VirtualBox Manager](virtualbox-manager.png)
+## Lab Environment
+
 Host Machine  
 Surface Laptop 5  
 Intel i7 12th Gen  

@@ -16,7 +16,7 @@ The virtualization environment is prepared using Oracle VirtualBox to simulate a
 
 Oracle VirtualBox Manager installed and ready to deploy the Windows virtual machine used for this lab.
 
-![VirtualBox Manager](screenshots/virtualbox-manager.png)
+![VirtualBox Manager](virtualbox-manager.png)
 
 ## Lab Environment
 

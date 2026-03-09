@@ -12,7 +12,7 @@ This lab is part of my IT Support Home Lab while preparing for the CompTIA A+ ce
 
 The virtualization environment is prepared using Oracle VirtualBox to simulate a help desk troubleshooting system.
 
-### VirtualBox Manager
+### Virtualization Platform
 
 Oracle VirtualBox Manager installed and ready to deploy the Windows virtual machine used for this lab.
 

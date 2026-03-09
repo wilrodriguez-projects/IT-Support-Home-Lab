@@ -27,7 +27,7 @@ Intel i7 12th Gen
 Windows 11
 
 Virtualization Platform
-Hyper-V
+Oracle VirtualBox
 
 Guest OS  
 Windows 10 / Windows 11

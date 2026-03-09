@@ -55,8 +55,8 @@ The following screenshots document the VM deployment process:
 
 ---
 
-## Key Takeaways
-
-• Learned how virtualization environments are configured  
-• Practiced deploying operating systems inside virtual machines  
+## Learned Takeaways
+• Learned how virtualization environments are configured
+• Practiced deploying operating systems inside virtual machines
 • Built a repeatable lab environment for troubleshooting practice
+• Gained experience configuring Hyper-V resources and VM boot settings

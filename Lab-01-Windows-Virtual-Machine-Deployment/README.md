@@ -16,8 +16,8 @@ Intel i7 12th Gen
 16 GB RAM  
 Windows 11
 
-Virtualization Platform  
-(TBD: VirtualBox / Hyper-V)
+Virtualization Platform
+Hyper-V
 
 Guest OS  
 Windows 10 / Windows 11

@@ -45,7 +45,13 @@ Windows 10 / Windows 11
 
 ## Screenshots
 
-(Add screenshots of the VM setup here)
+The following screenshots document the VM deployment process:
+
+• Hyper-V installation  
+• Virtual machine configuration  
+• Windows installation inside VM  
+• Successful system boot
+
 
 ---
 

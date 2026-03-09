@@ -36,10 +36,10 @@ Windows 10 / Windows 11
 
 ## Skills Practiced
 
-Virtualization fundamentals  
-Operating system installation  
-Resource allocation  
-System configuration
+• Virtualization fundamentals  
+• Operating system installation  
+• Resource allocation  
+• System configuration
 
 ---
 
